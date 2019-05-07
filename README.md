@@ -1,4 +1,4 @@
 # git_good
 
 
-#rubain is a contributor
+#rub1 is a contributor

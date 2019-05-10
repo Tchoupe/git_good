@@ -5,6 +5,5 @@ RANDOM=$$;
 for i in `seq $2`
 do
 	echo $(($RANDOM%Y)) >> random.txt;
-	sleep 2
-	git stash;
+	git stash
 done
